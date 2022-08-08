@@ -40,5 +40,8 @@ body {
 .btn {
   padding: 8px;
 }
+.btn:hover {
+  cursor: pointer;
+}
 
 /*# sourceMappingURL=main.css.map */

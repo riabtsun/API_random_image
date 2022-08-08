@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1525c6-d8c9-4f11-b6b2-02da92c11323" name="Changes" comment="test api cats">
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.sass" afterDir="false" />
-    </list>
+    <list default="true" id="5f1525c6-d8c9-4f11-b6b2-02da92c11323" name="Changes" comment="test api cats" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659945804981</updated>
-      <workItem from="1659945806287" duration="7817000" />
+      <workItem from="1659945806287" duration="8042000" />
     </task>
     <task id="LOCAL-00001" summary="test api cats">
       <created>1659953031162</created>
@@ -88,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659953928276</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test api cats">
+      <created>1659954008304</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659954008304</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
