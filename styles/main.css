@@ -40,9 +40,12 @@ body {
 
 .btn {
   padding: 8px;
+  border-radius: 10px;
+  transition: 0.3s;
 }
 .btn:hover {
   cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 /*# sourceMappingURL=main.css.map */
